@@ -11,4 +11,9 @@ justice and compassion.
 As I write this, Hugo hasn't finished the series yet. He sincerely hopes that he
 won’t come to regret having chosen this name.
 
+## Acknowledgments
+
+The image used as a profile picture was created by [Masaki Naito].
+
 [humtta]: https://github.com/humtta
+[masaki naito]: https://edisonnote.artstation.com
